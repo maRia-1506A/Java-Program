@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String1",
+            "request": "launch",
+            "mainClass": "String1",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StringJ",
+            "request": "launch",
+            "mainClass": "StringJ",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ArrayForEach",
+            "request": "launch",
+            "mainClass": "ArrayForEach",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Arraylistsorting",
+            "request": "launch",
+            "mainClass": "Arraylistsorting",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ArraySorting",
+            "request": "launch",
+            "mainClass": "ArraySorting",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "Arraylist2",
             "request": "launch",
             "mainClass": "Arraylist2",
