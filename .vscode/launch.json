@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "String3",
+            "request": "launch",
+            "mainClass": "String3",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "String2",
+            "request": "launch",
+            "mainClass": "String2",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "String1",
             "request": "launch",
             "mainClass": "String1",
