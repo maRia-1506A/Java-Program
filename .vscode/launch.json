@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StringPalindrom",
+            "request": "launch",
+            "mainClass": "StringPalindrom",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrome",
+            "request": "launch",
+            "mainClass": "StringPalindrome",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Stringbuffer",
+            "request": "launch",
+            "mainClass": "Stringbuffer",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Increment_decrement",
+            "request": "launch",
+            "mainClass": "Increment_decrement",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Assignmnet_operator",
+            "request": "launch",
+            "mainClass": "Assignmnet_operator",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "String3",
             "request": "launch",
             "mainClass": "String3",
