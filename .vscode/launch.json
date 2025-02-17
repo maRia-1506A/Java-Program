@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TeacherTesting",
+            "request": "launch",
+            "mainClass": "TeacherTesting",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "TeacherTest",
+            "request": "launch",
+            "mainClass": "TeacherTest",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "RandomNumb",
+            "request": "launch",
+            "mainClass": "RandomNumb",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeClass",
+            "request": "launch",
+            "mainClass": "DateTimeClass",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "DateClass",
+            "request": "launch",
+            "mainClass": "DateClass",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Numb_conversion",
+            "request": "launch",
+            "mainClass": "Numb_conversion",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ConvertStrPrimitive",
+            "request": "launch",
+            "mainClass": "ConvertStrPrimitive",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "WrapperClass",
+            "request": "launch",
+            "mainClass": "WrapperClass",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "StringPalindrom",
             "request": "launch",
             "mainClass": "StringPalindrom",
