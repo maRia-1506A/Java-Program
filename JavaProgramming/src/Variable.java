@@ -1,9 +1,8 @@
-public class Teacher { //class
-    String name, gender; //variable
+public class Variable {
+    String name, gender; //here name, gender, mobile= intance variable
     int mobile; 
 
-    //parameterized method
-    void setinfromation(String n, String g, int m) { 
+    void setinfromation(String n, String g, int m) { //here n, g, m= local vriable
         name= n;
         gender= g;
         mobile= m;
@@ -19,11 +18,11 @@ public class Teacher { //class
 
     public static void main(String[] args) {
 
-        Teacher teacher1= new Teacher(); //object(teacher1) declare & create(class Teacher)
+        Teacher teacher1= new Teacher();
         teacher1.setinfromation("Zannatul Farzana",  "Female", 1778326029);
         teacher1.displayinformation();
 
-        Teacher teacher2= new Teacher(); //object(teacher2) declare & create
+        Teacher teacher2= new Teacher(); 
         teacher2.setinfromation("Maria","Female", 1608233419);
         teacher2.displayinformation();
     }

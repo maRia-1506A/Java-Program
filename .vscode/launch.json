@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Teacher",
+            "request": "launch",
+            "mainClass": "Teacher",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "TeacherConstructor",
+            "request": "launch",
+            "mainClass": "TeacherConstructor",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StudentStaticVar",
+            "request": "launch",
+            "mainClass": "StudentStaticVar",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnMethod",
+            "request": "launch",
+            "mainClass": "ReturnMethod",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ContructorOverloading",
+            "request": "launch",
+            "mainClass": "ContructorOverloading",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethod",
+            "request": "launch",
+            "mainClass": "StaticMethod",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StaticBlock",
+            "request": "launch",
+            "mainClass": "StaticBlock",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethodTesting",
+            "request": "launch",
+            "mainClass": "StaticMethodTesting",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "StudentTesting",
+            "request": "launch",
+            "mainClass": "StudentTesting",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnMethodTest",
+            "request": "launch",
+            "mainClass": "ReturnMethodTest",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "ContructorOverloadingTest",
+            "request": "launch",
+            "mainClass": "ContructorOverloadingTest",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "TeacherTestingConstructor",
+            "request": "launch",
+            "mainClass": "TeacherTestingConstructor",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "TeacherTesting",
             "request": "launch",
             "mainClass": "TeacherTesting",
