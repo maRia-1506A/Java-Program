@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Debugging",
+            "request": "launch",
+            "mainClass": "Debugging",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "Debug",
+            "request": "launch",
+            "mainClass": "Debug",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "AutoTypeConvert",
+            "request": "launch",
+            "mainClass": "AutoTypeConvert",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "MathClass",
+            "request": "launch",
+            "mainClass": "MathClass",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "CarShowroom",
+            "request": "launch",
+            "mainClass": "PROBLEM_SOLVE.CarShowroom",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
+            "name": "BoxVolume",
+            "request": "launch",
+            "mainClass": "PROBLEM_SOLVE.BoxVolume",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "Teacher",
             "request": "launch",
             "mainClass": "Teacher",

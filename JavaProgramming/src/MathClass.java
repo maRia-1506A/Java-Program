@@ -19,6 +19,16 @@ public class MathClass {
 
         double pi= Math.PI;
         System.out.println("Pi: " +pi);
+        
+        System.out.println("Sqrt of 3: "+Math.sqrt(25));
+
+        System.out.println("Log of 1: "+Math.log(1));
+        
+        System.out.println("Expotential of 1: "+Math.exp(1));
+        
+        System.out.println("Ceiling: "+Math.ceil(-5.5));
+
+        System.out.println("Floor: "+Math.floor(5.5));
 
     }
     
