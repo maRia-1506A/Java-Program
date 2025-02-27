@@ -1,9 +1,12 @@
 public class MathClass {
     public static void main(String[] args) {
-        int x=2, y=-3;
+        int x=2, y=-3, z=10, a=100;
 
         int max= Math.max(x,y);
         System.out.println("Maximum: " +max);
+
+        int maxx= Math.max(x, Math.max(y, Math.max(z,a)));
+        System.out.println("Maximum: " +maxx);
         
         int min= Math.min(x,y);
         System.out.println("Minimum: " +min);

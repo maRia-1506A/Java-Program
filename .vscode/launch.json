@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayEven",
+            "request": "launch",
+            "mainClass": "ArrayEven",
+            "projectName": "JAVA-PROGRAMMING(VS)_5ded3ce1"
+        },
+        {
+            "type": "java",
             "name": "Debugging",
             "request": "launch",
             "mainClass": "Debugging",
