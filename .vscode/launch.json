@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "New_pack.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "VariableLenArgs",
+            "request": "launch",
+            "mainClass": "VariableLenArgs",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "CallValue",
+            "request": "launch",
+            "mainClass": "CallValue",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
