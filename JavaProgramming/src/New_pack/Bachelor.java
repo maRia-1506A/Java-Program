@@ -9,15 +9,17 @@ public class Bachelor extends Student{
     }
 
     public void display() {
-        System.out.println("Name: "+name+" Address: "+address+" Age: "+age+" Email: "+getEmail()+" GPA: "+gpa);
+        super.display();
+        System.out.println("Email: "+getEmail());
+        System.out.println("GPA: "+gpa);
     }
 
     public void isEligible() {
         if(age>=17 && gpa>4.50) {
-            System.out.println("Eligible");
+            System.out.println("You are eligible for Bsc");
             System.out.println();
         } else {
-            System.out.println("Not Eligible. Have to take Admission Test");
+            System.out.println("You are not eligible for Bsc. You have to sit for Admission Test");
             System.out.println();
         }
     }   

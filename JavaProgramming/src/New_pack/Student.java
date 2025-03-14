@@ -24,6 +24,5 @@ public class Student {
         System.out.println(name);
         System.out.println(address);
         System.out.println(age);
-        System.out.println(email);
     }
 }
