@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "Interfacee.Multiple_IF.C",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Dog",
+            "request": "launch",
+            "mainClass": "Interfacee.Dog",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Abstraction.Prbolem.Test",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Karim",
+            "request": "launch",
+            "mainClass": "Abstraction.Karim",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Polymorphism.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Final_Method.Student",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "Final",
             "request": "launch",
             "mainClass": "Final",
