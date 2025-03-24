@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Studentt",
+            "request": "launch",
+            "mainClass": "ULALALALALA.Studentt",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "TemparatureConvert",
+            "request": "launch",
+            "mainClass": "ULALALALALA.TemparatureConvert",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "ULALALALALA.BankAccount",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "ULALALALALA.Student",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "C",
             "request": "launch",
             "mainClass": "Interfacee.Multiple_IF.C",

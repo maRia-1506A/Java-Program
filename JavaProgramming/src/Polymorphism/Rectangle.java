@@ -13,3 +13,9 @@ public class Rectangle extends Shape {
         return length*width;
     }
 } 
+
+/*
+ Animal animal;
+ animal= new Dog();
+ animal.sound();
+ */
