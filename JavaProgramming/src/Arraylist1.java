@@ -15,12 +15,14 @@ public class Arraylist1 {
         //print elements
         System.out.println("Method1: " +number); //print method1
         System.out.println("size: " +number.size()); 
+        
         //print method2(for each loop)
         System.out.print("For each loop method: "); 
         for(int x: number) {  
             System.out.print(x+" ");      
         }
         System.out.println();
+
         //print method3(iterator)
         System.out.print("Iterator method: ");
         Iterator itr= number.iterator();
