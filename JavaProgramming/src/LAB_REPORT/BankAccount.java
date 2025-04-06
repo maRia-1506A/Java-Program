@@ -1,4 +1,5 @@
 //Question 1: Secure Your Treasure!
+
 import java.util.Scanner;
 
 public class BankAccount {

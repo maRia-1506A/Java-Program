@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Animal_Kingdom_Adventure",
+            "request": "launch",
+            "mainClass": "Animal_Kingdom_Adventure",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "AutoTypeConvert",
+            "request": "launch",
+            "mainClass": "AutoTypeConvert",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEven",
+            "request": "launch",
+            "mainClass": "ArrayEven",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "ArrayForEach",
+            "request": "launch",
+            "mainClass": "ArrayForEach",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Assignment4",
+            "request": "launch",
+            "mainClass": "Assignment4",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Arraylist2",
+            "request": "launch",
+            "mainClass": "Arraylist2",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "Arraylist3",
             "request": "launch",
             "mainClass": "Arraylist3",

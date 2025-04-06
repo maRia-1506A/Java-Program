@@ -3,7 +3,7 @@ import java.util.Iterator;
 
 public class Arraylist1 {
     public static void main(String[] args) {
-        ArrayList<Integer> number= new ArrayList<Integer>();
+        ArrayList <Integer> number= new ArrayList<Integer>();
         System.out.println("size: " +number.size()); //size of the arraylist
 
         //adding elements
@@ -31,11 +31,11 @@ public class Arraylist1 {
         }
         System.out.println();
 
-        //check array
+        //check array empty or not
         boolean check= number.isEmpty();
         System.out.println("Array list empty: "+check);
 
-        //find contain
+        //find contain(value is available or not by ture/false)
         boolean contain= number.contains(50);
         System.out.println("50 is in the array: "+contain);
 
@@ -43,11 +43,11 @@ public class Arraylist1 {
         int position= number.indexOf(30);
         System.out.println("Index of 40 is: "+position);
 
-        //replace or change number
+        //replace or change number(set value)
         number.set(2, 50);
         System.out.println("After setting: "+number);
 
-        //access number
+        //access/extract number(get value)
         System.out.println("Index 1: "+number.get(1));
 
         //removing elements
