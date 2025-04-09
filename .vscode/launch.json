@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Maain",
+            "request": "launch",
+            "mainClass": "Maain",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "Animal_Kingdom_Adventure",
             "request": "launch",
             "mainClass": "Animal_Kingdom_Adventure",
