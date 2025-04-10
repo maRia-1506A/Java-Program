@@ -36,7 +36,7 @@ public class BankAccount {
     //method deposit
     public void deposit(double amount) {
         if(amount > 0) {
-            amount += balance;
+            balance += amount;
             System.out.println("Deposit balance: "+amount);
         } else {
             System.out.println("Only positive deposit is allowed");
@@ -46,7 +46,7 @@ public class BankAccount {
     //method withdraw
     public void withdraw(double amount) {
         if(balance >= amount && amount > 0) {
-            amount -= balance;
+            balance -= amount;
             System.out.println("Withdraws money: "+amount);
         } else {
             System.out.println("The balance is sufficient");
@@ -55,6 +55,7 @@ public class BankAccount {
 
     //method display
     public void display() {
+        System.out.println();
         System.out.println("Account Holder Name: "+accountHolderName);
         System.out.println("Account Number: "+accountNumber);
         System.out.println("Balance: "+balance);
@@ -90,31 +91,3 @@ class Maain {
     }
 }
 
-// import java.util.Scanner;
-
-// public class BankAccount {
-   
-//     public static void main(String[] args) {
-//         BankAccount ba= new BankAccount();
-//         Scanner input= new Scanner(System.in);
-
-//         System.out.println("Enter Account Holder Number: ");
-//         ba.setAccountNumber(input.nextLine());
-//         System.out.println("Enter Account Holder Name: ");
-//         ba.setAccountHolderName(input.nextLine());
-//         System.out.println("Enter balance: ");
-//         ba.setBalance(input.nextDouble());
-
-//         ba.display();
-
-//         System.out.println("Enter the ammount you want to deposite: ");
-//         double depositeAmmount= input.nextDouble();
-//         ba.deposite(depositeAmmount);
-//         ba.display();
-
-//         System.out.println("Enter the ammount you want to withdraw: ");
-//         double withdrawAmmount= input.nextDouble();
-//         ba.deposite(withdrawAmmount);
-//         ba.display();
-//     }
-// }

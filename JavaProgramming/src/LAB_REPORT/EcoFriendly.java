@@ -1,5 +1,4 @@
 //Question 3: Build Your Smart Vehicle Fleet
-//3. Call the charge() method on electric vehicles using an EcoFriendly reference.(ai part baki)
 
 public interface EcoFriendly {
     public abstract void charge();
@@ -146,6 +145,10 @@ class Main {
             vc[i].calculateFuelEfficiency();
             System.out.println();
         }
+        EcoFriendly eco= ec;
+        eco.charge();
+        eco= eb;
+        eco.charge();
     }
 }
 

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Exception_handling",
+            "request": "launch",
+            "mainClass": "Exception_handling",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "Mainn",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "Maain",
             "request": "launch",
             "mainClass": "Maain",

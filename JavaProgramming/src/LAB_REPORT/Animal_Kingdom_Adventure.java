@@ -40,7 +40,12 @@ class Bird extends Animal{
     //constactor
     Bird(String name, String habitat, String diet, double wingSpan) {
         super(name, habitat, diet);
-        this.wingSpan= wingSpan;
+        if(wingSpan < 0) {
+            System.out.println("Invalid. The wing span cant be negative");
+            this.wingSpan= 0;
+        } else {
+            this.wingSpan= wingSpan;
+        }
     }
     //override
     void displayinfo() {
