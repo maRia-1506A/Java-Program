@@ -1,3 +1,4 @@
+package Exception_handle;
 import java.util.Scanner;
 
 public class Exception_handling {
@@ -64,10 +65,10 @@ public class Exception_handling {
     }
 }
 
-// custome exception
+// custome exception (ai part always emn e hbe)
 class NotEnoughMoney extends Exception { // all exception class ar parent class "Exception" thats why extends
     // constractor
-    NotEnoughMoney(String s) { //s=not enough money(parameter)
+    NotEnoughMoney(String s) { //parameter pass krbe [s=not enough money(parameter)]
         super(s); //exception k call jbe
     }
 }

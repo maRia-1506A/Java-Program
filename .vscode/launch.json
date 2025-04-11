@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AAAA",
+            "request": "launch",
+            "mainClass": "AAAA",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "ATM_Withdraw",
+            "request": "launch",
+            "mainClass": "ATM_Withdraw",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main_Driver",
+            "request": "launch",
+            "mainClass": "Exception_handle.Main_Driver",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "Exception_handling",
             "request": "launch",
             "mainClass": "Exception_handling",
