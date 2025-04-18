@@ -6,6 +6,125 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BankAccount",
+            "request": "launch",
+            "mainClass": "QUIZ.BankAccount",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "GroceryItem",
+            "request": "launch",
+            "mainClass": "QUIZ.GroceryItem",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "VolunteerTrackingSystem",
+            "request": "launch",
+            "mainClass": "QUIZ.VolunteerTrackingSystem",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "PaymentSystem",
+            "request": "launch",
+            "mainClass": "QUIZ.PaymentSystem",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Mainn",
+            "request": "launch",
+            "mainClass": "QUIZ.Mainn",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "ArraY",
+            "request": "launch",
+            "mainClass": "QUIZ.ArraY",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "QUIZ.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Exception_handle.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE_FALL.Library",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "TestClass",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE_FALL.TestClass",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE_FALL.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Tester",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE_FALL.Tester",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "DanceCompetition",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE_FALL.DanceCompetition",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "LibrarySystem",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE.LibrarySystem",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "RoboHelper",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE.RoboHelper",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE.Main",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Library",
+            "request": "launch",
+            "mainClass": "FINAL_PROBLEM_SOLVE.Library",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "AAAA",
             "request": "launch",
             "mainClass": "AAAA",
