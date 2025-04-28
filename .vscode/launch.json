@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConvertStrPrimitive",
+            "request": "launch",
+            "mainClass": "ConvertStrPrimitive",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java-Program_fd45753d"
+        },
+        {
+            "type": "java",
             "name": "BankAccount",
             "request": "launch",
             "mainClass": "QUIZ.BankAccount",
